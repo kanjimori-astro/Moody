@@ -8,7 +8,7 @@ $$\Delta p=\lambda \frac{l}{d}\frac{\rho u^2}{2},$$
 
 where $l$ is the pipe length between A and B, $d$ is the pipe diameter, $\rho$ is the fluid density, and $u$ is the average velocity of the flow. 
 
-It follows from the dimensional analysis that the pipe friction coefficient $\lambda$ is a function of $\epsilon/d$ and the Reynolds number $\mathrm{Re}=\rho u d/\mu$, where $\mu$ is the viscosity. In the luminar regime with $\mathrm{Re}<2000$, we can analytically show that $\lambda=64/\mathrm{Re}$. In the turbulent regime with $\mathrm{Re}>4000$, however, we have to use empirical formulae. In the case of a smooth pipe, there are several options.
+It follows from the dimensional analysis that the pipe friction coefficient $\lambda$ is a function of $\epsilon/d$ and the Reynolds number $\mathrm{Re}=\rho u d/\mu$, where $\epsilon$ is the roughness of the pipe and $\mu$ is the viscosity. In the luminar regime with $\mathrm{Re}<2000$, we can analytically show that $\lambda=64/\mathrm{Re}$. In the turbulent regime with $\mathrm{Re}>4000$, however, we have to use empirical formulae. In the case of a smooth pipe, there are several options.
 
 (1) Blasius empirical correlation [e.g. 2] for $3\times10^3<\mathrm{Re}<1\times10^5$:
 
