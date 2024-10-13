@@ -28,7 +28,7 @@ The solutions for the Colebrook equation can be plotted on a $\lambda-\mathrm{Re
 
 # What the code can do
 
-The code calculates the Blasius correlation (1) and solves the nonlinear equations (2) and (3) with Newton's method to obtain $\lambda$. We can reproduce the Moody diagram in the turbulent regime (i.e. $\mathrm{Re}>4000$), using the solutions.
+The code calculates the Blasius correlation (1) and solves the nonlinear equations (2) and (3) with Newton's method to obtain $\lambda$. We can reproduce the Moody diagram in the turbulent regime (i.e. $\mathrm{Re}>4000$), using the solutions. The following figure is an example for the Moody diagram with $\epsilon/d=10^{-4}$, $10^{-3}$, and $10^{-2}$.
 
 ![moody](https://github.com/user-attachments/assets/dd31ce0d-77d3-42f3-83f0-c0fc95ba6211)
 
